@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConvectorWinfroms", "CurrencyConvectorWinfroms\CurrencyConvectorWinfroms.csproj", "{50AA67CF-5C2A-4262-A23B-B481C3309F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AA67CF-5C2A-4262-A23B-B481C3309F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AA67CF-5C2A-4262-A23B-B481C3309F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AA67CF-5C2A-4262-A23B-B481C3309F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AA67CF-5C2A-4262-A23B-B481C3309F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {802B2554-6BE8-4CE0-B06A-B9E3013143D8}
+	EndGlobalSection
+EndGlobal
